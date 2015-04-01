@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tutorialMVCWeb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tutorialMVCWeb.war">
+      <element id="artifact" artifact-name="tutorialMVCWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
